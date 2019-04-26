@@ -1,2 +1,2 @@
 # UdacityDLproject3: Script Generation
-This is a deep learning model to generate TV scripts
+This project uses a LSTM model to generate TV scripts
